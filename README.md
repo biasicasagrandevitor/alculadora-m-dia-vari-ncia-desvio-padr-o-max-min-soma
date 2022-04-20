@@ -1,0 +1,1 @@
+# alculadora-m-dia-vari-ncia-desvio-padr-o-max-min-soma
